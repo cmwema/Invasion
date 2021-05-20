@@ -11,7 +11,6 @@ from scoreboard import Scoreboard
 
 
 def run_game():
-
     #1.initialize pygame, settings and screen
     pygame.init()
     ai_settings = Settings()
